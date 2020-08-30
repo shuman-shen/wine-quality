@@ -1,6 +1,6 @@
 # wine-quality
 
-Statistical data analysis and wine quality predition based on *pandas* and *scikit-learn*.
+Statistical data analysis and wine quality prediction based on *pandas* and *scikit-learn*.
 
 Prediction algorithm:
 
